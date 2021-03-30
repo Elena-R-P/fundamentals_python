@@ -9,7 +9,7 @@ students = [
     {'first_name' : 'John', 'last_name' : 'Rosales'}
 ]
 students[0]['last_name'] = 'Bryant'
-print(students)
+print("*"*30, "\n", students)
 
 sports_directory = {
     'basketball' : ['Kobe', 'Jordan', 'James', 'Curry'],
